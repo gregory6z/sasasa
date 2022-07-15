@@ -2,11 +2,11 @@
 
 &nbsp;
 
-<img src="/assets/logo.svg"  width="20%" />
+<img src="/src/assets/logo.svg"  width="20%" />
 
 &nbsp;
 
-<img src="/assets/todoApp.png" width="100%" />
+<img src="/src/assets/todoApp.png" width="100%" />
 
 &nbsp;
 
@@ -27,7 +27,7 @@ Ce projet a été développé pendant l'un des chapitres Ignite par Rocketseat! 
 - [React](https://pt-br.reactjs.org/E)
 - [Typescript](https://www.typescriptlang.org/)
 
-&nbsp; <img src="/public/imageTodo.gif" width="100%" /> &nbsp;
+&nbsp; <img src="/src/assets/imageTodo.gif" width="100%" /> &nbsp;
 
 ## ⚙️ Installation
 
