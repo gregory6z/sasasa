@@ -1,0 +1,57 @@
+.container {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding-bottom: 6rem;
+}
+
+@media (max-width: 750px) {
+  .ListTask header {
+    padding: 0 2rem;
+  }
+}
+
+.ListTask header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  margin-top: 3.25rem;
+}
+
+.ListTask header strong {
+  font-size: 0.875rem;
+  color: var(--blue-300);
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.ListTask header span {
+  font-size: 0.75rem;
+  display: inline-block;
+  font-weight: bold;
+  background-color: var(--gray-400);
+  padding: 0.125rem 0.5rem;
+  border-radius: 999px;
+
+  margin-bottom: 1.5rem;
+}
+.tasks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 0 1rem;
+}
+
+.enterTasks {
+  display: flex;
+  flex-direction: column;
+  color: var(--gray-300);
+  text-align: center;
+  border-top: 1px solid var(--gray-400);
+  border-radius: 8px;
+}
+.enterTasks img {
+  padding-top: 4rem;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+}

@@ -1,0 +1,32 @@
+.InputCreateTodo {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: -1.6758rem;
+  padding: 0 1rem;
+}
+
+.InputCreateTodo input {
+  padding: 1rem;
+  flex: 1;
+  border-radius: 8px;
+  background: var(--gray-500);
+  border: 1px solid var(--gray-700);
+}
+.InputCreateTodo button {
+  display: flex;
+  gap: 0.5rem;
+  padding: 1rem;
+  font-height: 700;
+  background: var(--blue-500);
+  border-radius: 8px;
+  border: 0;
+
+  transition: background-color 0.2s;
+}
+.InputCreateTodo button:not(:disabled):hover {
+  background: var(--blue-300);
+}
+.InputCreateTodo button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}

@@ -1,0 +1,8 @@
+<button
+        className={styles.checkbox}
+        type="button"
+        onClick={handleSelectedCheckbox}
+      >
+        <Circle size={24} weight="bold" />
+      </button>
+      <p>{content}</p>
