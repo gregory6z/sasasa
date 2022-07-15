@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<img src="/src/assets/logo.svg"  width="20%" />
+<img align="center" src="/src/assets/logo.svg"  width="20%" />
 
 &nbsp;
 
