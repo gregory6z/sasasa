@@ -12,13 +12,13 @@
 
 ## 📚 Renseignements sur le projet
 
-Le gp-money c'est une aplication de contrôle des finances personnelles, où enregistrez-vous vos dépôts et vos dépenses pour mieux contrôler votre argent.
+Le todo-list c'est une aplication dest pour contrôler les tâches, vérifier et décocher s'il est exécuté
 
 &nbsp;
 
 ## ❓ Objectif du projet
 
-Ce projet a été développé pendant l'un des chapitres Ignite par Rocketseat! Où les principaux concepts de react sont enseignés en tant que les composants, les states et les contexts.
+Ce projet a été réalisé lors d'un challenge du premier chapitre du Ignite par Rocketseat! Où les principaux concepts de react sont enseignés en tant que les composants et les states.
 
 &nbsp;
 
