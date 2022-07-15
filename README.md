@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<img align="center" src="/src/assets/logo.svg"  width="20%" />
+<img  src="/src/assets/logo.svg"  width="20%" />
 
 &nbsp;
 
@@ -33,12 +33,12 @@ Ce projet a été réalisé lors d'un challenge du premier chapitre du Ignite pa
 
 ```
 # Ouvrez un terminal et copiez ce référentiel avec la commande
-$ git clone https://github.com/gregory6z/ignite-reactjs-02-gpmoney.git
+$ git clone https://github.com/gregory6z/todo-list
 ```
 
 ```
 # Accédez au dossier de l'application
-$ cd ignite-reactjs-02-gpmoney
+$ cd todo-list
 
 # Installez les dépendances
 $ yarn
